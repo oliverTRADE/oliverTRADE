@@ -1,4 +1,4 @@
-- import random
+import random
 
 def jugar():
     print("¡Bienvenido al juego de ganar megas!")
@@ -21,15 +21,4 @@ def mostrar_carta():
     
 if __name__ == "__main__":
     jugar()
-👋 Hi, I’m @oliverTRADE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-oliverTRADE/oliverTRADE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
